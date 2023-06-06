@@ -3,7 +3,8 @@
     { "id": 1, "name": "Post 1" },
     { "id": 2, "name": "Post 2" },
     { "id": 3, "name": "Post 3" },
-	{ "id": 4, "name": "post 4" }
+	{ "id": 4, "name": "post 4" },
+	{ "id": 4, "name": "post 5" }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
