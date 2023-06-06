@@ -6,8 +6,8 @@
 	{ "id": 4, "name": "post 9" }
   ],
   "comments": [
-    { "id": 1, "title": "product 1", "price": 19.9, "description": "Description for Product 1", "imageUrl": "images/2.png" },
-    { "id": 2, "title": "product 2", "price": 19.5, "description": "Description for Product 2", "imageUrl": "images/3.png" }
+    { "id": 1, "title": "Product 1", "price": 19.9, "description": "Description for Product 1", "imageUrl": "images/2.png" },
+    { "id": 2, "title": "Product 2", "price": 19.5, "description": "Description for Product 2", "imageUrl": "images/3.png" }
   ],
   "profile": {
     "name": "typicode"
